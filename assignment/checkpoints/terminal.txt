@@ -42,4 +42,4 @@ I adds everything to git in the current folder you are in. Before you create a c
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 
-git commit -m "(comments)"
+git push -u origin master
